@@ -1,0 +1,26 @@
+
+.App{padding-top:40px;}
+.loading-indicator{
+    text-align: center;
+    font-size: 45px;
+    color:red;
+} 
+.table .table-cell{padding-bottom:0px;vertical-align: middle }
+.red{color:red}
+.qty-content{padding: 20px; border:1px solid #ddd;}
+.items-add-note-bar{padding:10px; background:#5cb85c;border-radius: 5px; color:#FFF}
+.close-btn{color:#ddd; float: right; line-height:2.5em;cursor: pointer;}
+.qty-change-btn{font-size: 20px;line-height: 15px; border:none}
+.small-image{ display:inline; height:40px; width: 40px;}
+.btn-cart{ border-color: #05a5f1; color:#05a5f1}
+.cart-count-badge{ position: absolute !important; top: -8px !important; border: 1px solid #ccc !important;}
+.add-to-cart-wrapper{ padding-top: 37px;}
+.total{border:1px solid #ddd}
+.total .table{margin-bottom: 0px}
+ .total .table tr td{ border-top:none} 
+ .total .table tr th{ border-bottom:none}
+  .total .table tr td .total-span{float:right}
+  .total .table tbody tr:nth-last-child(1) {background: #ccc}
+  .order-table-list{border-top:1px solid #ddd; border-bottom: 1px solid #ddd}
+  
+  
